@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Binance-Bot", "Binance-Bot.pyproj", "{C522A9E8-3D10-4FFB-B246-C3027A6222D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C522A9E8-3D10-4FFB-B246-C3027A6222D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C522A9E8-3D10-4FFB-B246-C3027A6222D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D96683F-8E6D-41B2-9CEF-FD04688CEB0A}
+	EndGlobalSection
+EndGlobal
